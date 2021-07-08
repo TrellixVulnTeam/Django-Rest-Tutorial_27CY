@@ -3,4 +3,5 @@
 ### Setup Environment
 
 `cd Django-Rest-Tutorial`
+
 `source venv/bin/activate`
